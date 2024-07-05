@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav{
+    padding-right: 10px;
+    padding-top: 78px;
+}
+.navimg{
+margin-top: 7px;
+}
+#navimg2{
+    margin-left: 12px;
+    padding-bottom: 15px;
+}
+li{
+    font-size: 22px;
+    margin-bottom: 7px;
+}
+#firstimg{
+    width: 69.5%;
+    margin: 20px 0px 20px 0px;
+}
+#gridimg1{
+    height: 380px;
+}
+.coltake{
+    width: 60%;
+    margin:15px 0px 0px 12px;
+    background-color: rgb(136, 61, 136);
+    color: black;
+}
