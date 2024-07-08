@@ -132,3 +132,46 @@ li{
 .minidiv{
     margin-top: 250px;
 }
+.life{
+    border: 1px dashed rgb(51, 49, 49);
+margin: 14px 0px 0px 6px;
+height: 1px;
+width: 100%;
+}
+.row-4div{
+    display: flex;
+    flex-direction: row;
+}
+.insead{
+    font-size: 13px; 
+}
+.btn1{
+    width: 35px;
+    border-radius: 5px;
+}
+.colsix{
+margin-left: 6.8rem;
+font-size: 13px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+/* .col-9{
+    border-bottom: 4px dashed rgb(134, 125, 125);
+} */
+.borderdashed{
+    border-bottom: 2px dashed rgb(160, 151, 151);
+}
+.rowmiddle{
+    margin-top: 350px;
+}
+
+
+@media only screen  and (max-width:950px){
+    .nav-item1{
+        display: none;
+    }
+}
+@media only screen  and (max-width:950px){
+    .navimg2{
+        margin: 0px 25px 0px 25px;
+    }
+}
